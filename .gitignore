@@ -1,0 +1,5 @@
+document
+.cache
+node_modules
+demo
+dist
